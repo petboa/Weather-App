@@ -2,6 +2,10 @@
 
 The Weather App is a simple web application that allows users to check the current weather conditions for a specific city. It provides real-time weather information, including temperature, humidity, wind speed, and a weather icon.
 
+![image](https://github.com/petboa/Weather-App/assets/112291489/cd2f15a7-330a-41e7-b107-ae97e8367aa0)
+
+
+
 ## Features
 
 - City-based Weather Information: The app allows users to enter the name of a city, and it retrieves and displays the current weather conditions for that city.
